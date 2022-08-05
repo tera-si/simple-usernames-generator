@@ -9,7 +9,7 @@ delimiters = ["", "-", "_", "."]
 
 def print_banner():
     separator = "#" * 50
-    banner_text = "# Potential Usernames Generator v0.1" + " " * 13 + "#\n"
+    banner_text = "# Potential Usernames Generator v1.0" + " " * 13 + "#\n"
     banner_text += "# By terasi" + " " * 38 + "#\n"
     banner_text += "# https://github.com/tera-si" + " " * 21 + "#"
 
